@@ -1,0 +1,8 @@
+Hash used                            Cracked password   acuracy
+
+
+81dc9bdb52d04dc20036dbd8313ed055    1234                correct
+202cb962ac59075b964b07152d234b70    123                 correct
+1006f0ae5a7ece19828a67ac62288e05    sahil               correct
+
+
